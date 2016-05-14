@@ -5,9 +5,9 @@ $ git clone https://github.com/giutrec/Delta-Cura-Profile.git
 
 $ cd Delta-Cura-Profile
 
-# cp ./mini_kossel.STL /usr/share/cura/resources/meshes/
+#cp ./mini_kossel.STL /usr/share/cura/resources/meshes/
 
-# cp ./mini-kossel.json /usr/share/cura/resources/machines/
+#cp ./mini-kossel.json /usr/share/cura/resources/machines/
 
 Play CURA!
 
