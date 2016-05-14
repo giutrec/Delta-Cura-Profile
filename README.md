@@ -1,14 +1,15 @@
 # Delta-Cura-Profile
 A profile for using a Delta Printer on Cura 15.04.03 and newer!
 
-$ git clone https://github.com/giutrec/Delta-Cura-Profile.git
+```bash
+git clone https://github.com/giutrec/Delta-Cura-Profile.git
 
-$ cd Delta-Cura-Profile
+cd Delta-Cura-Profile
 
-#cp ./mini_kossel.STL /usr/share/cura/resources/meshes/
+sudo cp ./mini_kossel.STL /usr/share/cura/resources/meshes/
 
-#cp ./mini-kossel.json /usr/share/cura/resources/machines/
-
+sudo cp ./mini-kossel.json /usr/share/cura/resources/machines/
+```
 Play CURA!
 
 
